@@ -1,0 +1,63 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Tomorrow', sans-serif;
+}
+
+.content{
+    background: url(images/backgroundImage.jpeg);
+}
+
+.nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+    background-color: rgba(0,0,0,0.9);
+}
+
+.nav > p {
+    border-bottom: 3px solid white;
+}
+
+.content-title{
+    font-size: 62px;
+    color: white;
+    margin-right: 375px;
+}
+
+.hamburger-wrapper{
+    display: flex;
+    align-items: center;
+    height: 29px;
+}
+
+.hamburger-icon::before{
+    content:'';
+    position: absolute;
+    bottom: 10px;
+    justify-content: flex-end;
+    width:30px;
+    height: 3px;
+    background-color: white;
+}
+
+.hamburger-icon{
+    position: relative;
+    justify-content: flex-end;
+    width:30px;
+    height: 3px;
+    background-color: white;
+}
+
+.hamburger-icon::after{
+    position: absolute;
+    top: 10px;
+    content:'';
+    justify-content: flex-end;
+    width:30px;
+    height: 3px;
+    background-color: white;
+}
+
