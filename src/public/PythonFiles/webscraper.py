@@ -40,14 +40,17 @@ def scrape() -> None:
     # # Get all the opponent teams
     team_names = []
     for game in all_games_sections:
-        if game['data-idx'] == '0' or game['data-idx'] == '56':
+        if game['data-idx'] == '0':
             pass
+        # elif game.find_next('td', attrs={'class': True})
+
         else:
-            temp = game.find_next('a', attrs={'class': 'AnchorLink',
-                                              'tabindex': True})
-            team_span = temp.find_next('a', attrs={'class': 'AnchorLink',
-                                                   'tabindex': True})
-            team_names.append(team_span.text[0:len(team_span.text)-1])
+            if game.find_next('td', attrs={'class': True}).attrs['class'] == ['Table__TD']:
+                temp = game.find_next('a', attrs={'class': 'AnchorLink',
+                                                  'tabindex': True})
+                team_span = temp.find_next('a', attrs={'class': 'AnchorLink',
+                                                       'tabindex': True})
+                team_names.append(team_span.text[0:len(team_span.text)-1])
             # print(team_span.text[0:len(team_span.text)-1])
 
 
