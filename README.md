@@ -10,7 +10,7 @@ Make sure to have the following, otherwise download them:
 
 1. Copy the git repository url and then clone the repo wherever you like.
 ```
-git clone 'link'
+git clone https://github.com/Aarya-Patel/RapsTrack.git
 ```
 
 2. Change directory into the project. When downloading NodeJs you will have also downloaded the npm installer, 
