@@ -1,5 +1,7 @@
 # RapsTrack
 A web application that allows Toronto Raptors' fans to keep up with their favourite team!
+Here is a link to a video that you can watch which outlines the functionalities of the application:
+https://drive.google.com/file/d/1Yns_vExXqTOBW8wOZoeq0fFY80GHYyKz/view?usp=sharing 
 
 ## Prerequisites 
 Make sure to have the following, otherwise download them: 
