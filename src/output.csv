@@ -1,0 +1,65 @@
+opponent,location,day,game_status,time_zone,time,quarter,score,points_leader,points,rebounds_leader,rebounds,assists_leader,assists
+New Orleans,home game,Tue Oct 22,W,,,OT1,130-122,P. Siakam,34,P. Siakam,18,F. VanVleet,7
+Boston,away game,Fri Oct 25,L,,,,106-112,P. Siakam,33,O. Anunoby,8,K. Lowry,7
+Chicago,away game,Sat Oct 26,W,,,,108-84,P. Siakam,19,M. Gasol,10,K. Lowry,8
+Orlando,home game,Mon Oct 28,W,,,,104-95,K. Lowry,26,M. Gasol,10,K. Lowry,6
+Detroit,home game,Wed Oct 30,W,,,,125-113,P. Siakam,30,O. Anunoby,8,F. VanVleet,11
+Milwaukee,away game,Sat Nov 02,L,,,,105-115,K. Lowry,36,M. Gasol,12,F. VanVleet,7
+Sacramento,home game,Wed Nov 06,W,,,,124-120,K. Lowry,24,P. Siakam,13,K. Lowry,6
+New Orleans,away game,Fri Nov 08,W,,,,122-104,P. Siakam,44,P. Siakam,10,F. VanVleet,11
+Los Angeles,away game,Sun Nov 10,W,,,,113-104,P. Siakam,24,P. Siakam,11,F. VanVleet,10
+LA,away game,Mon Nov 11,L,,,,88-98,P. Siakam,16,P. Siakam,10,F. VanVleet,8
+Portland,away game,Wed Nov 13,W,,,,114-106,P. Siakam,36,R. Hollis-Jefferson,11,F. VanVleet,7
+Dallas,away game,Sat Nov 16,L,,,,102-110,N. Powell,26,M. Gasol,9,P. Siakam,7
+Charlotte,home game,Mon Nov 18,W,,,,132-96,O. Anunoby,24,C. Boucher,11,M. Gasol,9
+Orlando,home game,Wed Nov 20,W,,,,113-97,F. VanVleet,24,P. Siakam,11,F. VanVleet,7
+Atlanta,away game,Sat Nov 23,W,,,,119-116,P. Siakam,34,R. Hollis-Jefferson,9,F. VanVleet,9
+Philadelphia,home game,Mon Nov 25,W,,,,101-96,P. Siakam,25,R. Hollis-Jefferson,10,M. Gasol,9
+New York,home game,Wed Nov 27,W,,,,126-98,P. Siakam,31,O. Anunoby,12,T. Davis,5
+Orlando,away game,Fri Nov 29,W,,,,90-83,N. Powell,33,P. Siakam,13,P. Siakam,5
+Utah,home game,Sun Dec 01,W,,,,130-110,P. Siakam,35,R. Hollis-Jefferson,6,F. VanVleet,11
+Miami,home game,Tue Dec 03,L,,,OT1,110-121,N. Powell,23,P. Siakam,12,K. Lowry,11
+Houston,home game,Thu Dec 05,L,,,,109-119,P. Siakam,24,P. Siakam,9,K. Lowry,8
+Philadelphia,away game,Sun Dec 08,L,,,,104-110,K. Lowry,26,O. Anunoby,10,K. Lowry,5
+Chicago,away game,Mon Dec 09,W,,,,93-92,P. Siakam,22,S. Ibaka,14,K. Lowry,7
+LA,home game,Wed Dec 11,L,,,,92-112,P. Siakam,24,M. Gasol,11,M. Gasol,6
+Brooklyn,home game,Sat Dec 14,W,,,,110-102,P. Siakam,30,M. Gasol,15,K. Lowry,6
+Cleveland,home game,Mon Dec 16,W,,,,133-113,P. Siakam,33,O. Anunoby,9,K. Lowry,11
+Detroit,away game,Wed Dec 18,W,,,,112-99,P. Siakam,26,S. Ibaka,13,K. Lowry,10
+Washington,home game,Fri Dec 20,W,,,,122-118,K. Lowry,26,S. Ibaka,10,K. Lowry,9
+Dallas,home game,Sun Dec 22,W,,,,110-107,K. Lowry,32,R. Hollis-Jefferson,9,K. Lowry,10
+Indiana,away game,Mon Dec 23,L,,,OT1,115-120,K. Lowry,30,O. Anunoby,12,F. VanVleet,11
+Boston,home game,Wed Dec 25,L,,,,102-118,F. VanVleet,27,S. Ibaka,8,K. Lowry,8
+Boston,away game,Sat Dec 28,W,,,,113-97,K. Lowry,30,S. Ibaka,10,P. McCaw,8
+Oklahoma City,home game,Sun Dec 29,L,,,,97-98,K. Lowry,20,S. Ibaka,14,F. VanVleet,8
+Cleveland,home game,Tue Dec 31,W,,,,117-97,K. Lowry,24,S. Ibaka,10,K. Lowry,8
+Miami,away game,Thu Jan 02,L,,,,76-84,S. Ibaka,19,O. Anunoby,12,K. Lowry,8
+Brooklyn,away game,Sat Jan 04,W,,,,121-102,F. VanVleet,29,S. Ibaka,12,F. VanVleet,11
+Portland,home game,Tue Jan 07,L,,,,99-101,K. Lowry,24,S. Ibaka,11,K. Lowry,10
+Charlotte,away game,Wed Jan 08,W,,,OT1,112-110,S. Ibaka,23,S. Ibaka,11,P. McCaw,11
+San Antonio,home game,Sun Jan 12,L,,,,104-105,S. Ibaka,21,S. Ibaka,14,K. Lowry,15
+Oklahoma City,away game,Wed Jan 15,W,,,,130-121,N. Powell,23,T. Davis,7,K. Lowry,8
+Washington,home game,Fri Jan 17,W,,,,140-111,N. Powell,28,S. Ibaka,8,K. Lowry,8
+Minnesota,away game,Sat Jan 18,W,,,,122-112,F. VanVleet,29,K. Lowry,7,M. Gasol,4
+Atlanta,away game,Mon Jan 20,W,,,,122-117,N. Powell,27,R. Hollis-Jefferson,10,K. Lowry,7
+Philadelphia,home game,Wed Jan 22,W,,,,107-95,F. VanVleet,22,P. Siakam,15,F. VanVleet,8
+New York,away game,Fri Jan 24,W,,,,118-112,K. Lowry,26,M. Gasol,9,F. VanVleet,9
+San Antonio,away game,Sun Jan 26,W,,,,110-106,P. Siakam,35,M. Gasol,12,F. VanVleet,7
+Atlanta,home game,Tue Jan 28,W,,,,130-114,P. Siakam,24,S. Ibaka,10,K. Lowry,11
+Cleveland,away game,Thu Jan 30,W,,,,115-109,S. Ibaka,26,F. VanVleet,7,F. VanVleet,12
+Detroit,away game,Fri Jan 31,W,,,,105-92,P. Siakam,30,F. VanVleet,8,F. VanVleet,9
+Chicago,home game,Sun Feb 02,W,,,,129-102,T. Davis,31,P. Siakam,9,F. VanVleet,8
+Indiana,home game,Wed Feb 05,W,,,,119-118,K. Lowry,32,P. Siakam,9,K. Lowry,10
+Indiana,away game,Fri Feb 07,W,,,,115-106,S. Ibaka,22,S. Ibaka,10,K. Lowry,11
+Brooklyn,home game,Sat Feb 08,W,,,,119-118,F. VanVleet,29,T. Davis,8,F. VanVleet,6
+Minnesota,home game,Mon Feb 10,W,,,,137-126,P. Siakam,34,O. Anunoby,12,K. Lowry,11
+Brooklyn,away game,Wed Feb 12,L,,,,91-101,S. Ibaka,28,K. Lowry,11,K. Lowry,12
+Phoenix,home game,Fri Feb 21,W,,,,118-101,P. Siakam,37,P. Siakam,12,K. Lowry,10
+Indiana,home game,Sun Feb 23,W,,,,127-81,P. Siakam,21,S. Ibaka,15,K. Lowry,11
+Milwaukee,home game,Tue Feb 25,L,,,,97-108,P. Siakam,22,R. Hollis-Jefferson,8,K. Lowry,6
+Charlotte,home game,Fri Feb 28,L,,,,96-99,P. Siakam,24,O. Anunoby,9,K. Lowry,6
+Denver,away game,Sun Mar 01,L,,,,118-133,O. Anunoby,32,O. Anunoby,7,K. Lowry,8
+Phoenix,away game,Tue Mar 03,W,,,,123-114,P. Siakam,33,C. Boucher,15,K. Lowry,6
+Golden State,away game,Thu Mar 05,W,,,,121-113,N. Powell,37,S. Ibaka,13,K. Lowry,10
+Sacramento,away game,Sun Mar 08,W,,,,118-113,N. Powell,31,S. Ibaka,10,K. Lowry,8
+Utah,away game,Mon Mar 09,W,,,,101-92,P. Siakam,27,S. Ibaka,13,P. Siakam,8
